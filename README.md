@@ -1,3 +1,9 @@
+## Tweaked Colab by Markuryy (Easier)
+| Colab | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/markuryy/Wonder3D-colab/blob/main/Wonder3D_mesh_colab.ipynb) | Wonder3D_mesh_colab (Easier upload/download)
+
+## Original readme below:
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
